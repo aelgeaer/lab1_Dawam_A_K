@@ -21,5 +21,5 @@ CRUD API для управления новостями, пользовател�
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/itmo-webdev/lab1_Ivanov_A_A.git
-cd lab1_Ivanov_A_A
+git clone https://github.com/itmo-webdev/lab1_Dawam_A_K.git
+cd lab1_Dawam_A_K
