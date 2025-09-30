@@ -33,17 +33,17 @@ pip install -r requirements.txt
 3. Настройте базу данных PostgreSQL и укажите connection string в переменной окружения:
 ```bash
 export DATABASE_URL="postgresql://user:password@localhost/news_db"
-
+```
 
 4. Примените миграции:
 ```bash
 alembic upgrade head
-
+```
 
 5. Запустите приложение:
 ```bash
 uvicorn app.main:app --reload
-
+```
 
 API будет доступно по адресу: http://localhost:8000
 Документация API: http://localhost:8000/docs
