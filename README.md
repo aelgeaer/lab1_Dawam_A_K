@@ -23,12 +23,12 @@ CRUD API для управления новостями, пользовател�
 ```bash
 git clone https://github.com/itmo-webdev/lab1_Dawam_A_K.git
 cd lab1_Dawam_A_K
-
+```
 
 2. Установите зависимости:
 ```bash
 pip install -r requirements.txt
-
+```
 
 3. Настройте базу данных PostgreSQL и укажите connection string в переменной окружения:
 ```bash
